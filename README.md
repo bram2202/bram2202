@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer 🧑‍💻 <br>Classic Mini enthusiast 🚗 <br>Electronics hobbyist 🛠️ <br>Home automation advocate 🏡
+Software Engineer 🧑‍💻 <br>Classic Mini enthusiast 🚗 <br>Electronics hobbyist 🛠️ <br>Home automation advocate 🏡 <br>Home lab tinkerer 🖥️🐧
 
 
 ## 🌐 Socials:
